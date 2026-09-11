@@ -5,5 +5,5 @@
 
   <project name="repack-scripts" path="scripts" remote="mozilla-partners" revision="master"/>
   <project name="build-tools" path="scripts/tools" remote="mozilla" revision="master"/>
-  <project name="sample-configs" path="partners/smp" remote="mozilla-partners" revision="06c908dc4b00f2262f316955376259e8177b9292"/>
+  <project name="sample-configs" path="partners/smp" remote="mozilla-partners" revision="f0e5c8a3342efc6912199e4c12c04fcc23e90353"/>
 </manifest>
